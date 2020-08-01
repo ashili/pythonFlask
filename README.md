@@ -6,6 +6,6 @@
 
 ![pycharm data query](screenshots/query.png)
 
-### Postman Data
+### Postman Data Screenshot
 
 ![postman data](screenshots/postman.png)
